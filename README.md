@@ -11,7 +11,7 @@ This project is a Jaya Nesting algorithm implementation in C++.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/jaya-nesting.git
+    git clone https://github.com/cloudlab-aia/jaya-nesting.git
     cd jaya-nesting
     ```
 
