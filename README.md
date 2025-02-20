@@ -69,7 +69,9 @@ In the datasets folder there are some dxf files with figures from multiple datas
 - lee: [A heuristic for nesting problems of irregular shapes](https://doi.org/10.1016/j.cad.2008.02.008)
 
 ## Acknowledgements
-This research has been developed at the [UniCAD: CAD/CAM/CAE](https://www.researchgate.net/lab/UniCAD-Antonio-Jimeno-Morenilla) Research Group of the University of Alicante (Spain).
+This research has been performed for the research project <a href="https://aia.ua.es/en/proyectos/federated-serverless-architectures-for-heterogeneous-high-performance-computing-in-smart-manufacturing.html" target="_blank">Federated Serverless Architectures for Heterogeneous High Performance Computing in Smart Manufacturing</a>, at the [UniCAD: CAD/CAM/CAE](https://www.researchgate.net/lab/UniCAD-Antonio-Jimeno-Morenilla) Research Group of the University of Alicante (Spain).
+
+Grant <b>Serverless4HPC PID2023-152804OB-I00</b> funded by MICIU/AEI/10.13039/501100011033 and by ERDF/EU.
 
 
 ## Citation
